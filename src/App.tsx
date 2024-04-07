@@ -2,17 +2,6 @@ import { InfiniteMovingCards } from "./components/ui/infinite-moving-cards";
 import OpizeLogo from "./assets/images/opize.png";
 import HyunsLogo from "./assets/images/hyuns.png";
 
-// function OpizeBadge() {
-//   return (
-//     <a href="https://opize.me" target="_blank" className="flex w-fit">
-//       <div className="bg-gradient-to-l from-[#9764ff] to-[#649dff] rounded-full pr-5 h-7 flex items-center gap-2">
-//         <img src={OpizeLogo} className="h-full" alt="" />
-//         <span className="text-white text-sm">Opize Project #1</span>
-//       </div>
-//     </a>
-//   );
-// }
-
 function EndOfServiceBadge() {
   return (
     <div className="bg-gradient-to-l from-[#9764ff] to-[#649dff] text-background px-2 py-1 rounded">
